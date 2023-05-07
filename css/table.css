@@ -1,0 +1,34 @@
+th {
+    color: white;
+    text-align: center;
+}
+td {
+    text-align: center;
+}
+
+.studentTable{
+    height: 48rem;
+}
+.studentTableData{
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+}
+div div {
+    border-radius: 0%;
+}
+@media only screen and  (min-device-width: 320px) and (max-width: 600px){
+    header a b{
+        font-size: 0.7rem;
+    }
+    .studentTableData table th, 
+    .studentTableData table td{
+        font-size: 0.7rem;
+    }
+    .studentTableData table td{
+        height: 0.5rem;
+    }
+    .dataTables_paginate{
+        width: 40rem;
+    }
+}

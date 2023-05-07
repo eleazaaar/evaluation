@@ -1,0 +1,37 @@
+table {
+    border: 2px solid black;
+}
+tr {
+    text-align: center;
+}
+th {
+    padding: 5px;
+    border: 2px solid black;
+}
+.col1 {
+    width: 120px;
+}
+.col2 {
+    width: 400px;
+}
+.col3 {
+    width: 60px;
+}
+.col4 {
+    width: 100px;
+    font-size: 25px;
+}
+.col5 {
+    width: 80px;
+    font-size: 25px;
+}
+.col6 {
+    width: 100px;
+    font-size: 25px;
+}
+input {
+    text-align: center;
+}
+optgroup {
+    font-size:20px;
+}

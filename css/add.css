@@ -1,0 +1,5 @@
+label, input, select, optgroup {
+    font-size: 18px;
+    text-align: center;
+    margin: 2px;
+}

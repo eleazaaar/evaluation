@@ -1,0 +1,80 @@
+body {
+  background-color: #007fb9;
+}
+div div {
+  border-radius: 15%;
+}
+#homePanel {
+  padding-top: 15px;
+  text-align: center;
+  background-color: #eee;
+}
+#btnPanel {
+  padding: 0px 25px 25px 25px;
+  display: flex;
+}
+#studInfo {
+  margin: 15px 15px 15px 15px;
+  height: 200px;
+  width: 20%;
+  background: url("../images/student.png");
+  background-color: #ccc;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  font-size: 150%;
+  font-weight: bold;
+  cursor: pointer;
+}
+#deanList {
+  margin: 15px 15px 15px 15px;
+  height: 200px;
+  width: 20%;
+  background: url("../images/dean-list.png");
+  background-color: #ccc;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  font-size: 150%;
+  font-weight: bold;
+  cursor: pointer;
+}
+#curriculum {
+  margin: 15px 15px 15px 15px;
+  height: 200px;
+  width: 20%;
+  background: url("../images/curriculum.png");
+  background-color: #ccc;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  font-size: 150%;
+  font-weight: bold;
+  cursor: pointer;
+}
+#courses {
+  margin: 15px 15px 15px 15px;
+  height: 200px;
+  width: 20%;
+  background: url("../images/course.png");
+  background-color: #ccc;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  font-size: 150%;
+  font-weight: bold;
+  cursor: pointer;
+}
+#configure {
+  margin: 15px 15px 15px 15px;
+  height: 200px;
+  width: 20%;
+  background: url("../images/settings.png");
+  background-color: #ccc;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  font-size: 150%;
+  font-weight: bold;
+  cursor: pointer;
+}
